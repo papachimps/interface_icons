@@ -25,7 +25,7 @@ class InterfaceIcons {
   InterfaceIcons._();
 
   static const _kFontFam = 'InterfaceIcons';
-  static const String? _kFontPkg = null;
+  static const String _kFontPkg = "interface_icons";
 
   static const IconData sr_stats = IconData(
     0xe800,
